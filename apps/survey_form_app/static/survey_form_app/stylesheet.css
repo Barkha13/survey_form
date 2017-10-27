@@ -1,0 +1,23 @@
+.wrapper{
+    width: 400px;
+    height: 400px;
+    border: 1px solid black; 
+    margin-left: 700px;
+    margin-top: 100px;
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+    box-shadow: black;
+}
+.survey_process{
+    text-align: right;
+}
+.green{
+    background-color: lightseagreen;
+    height: 100px;
+    width: 400px;
+    margin-left: 700px;
+}
